@@ -44,5 +44,5 @@ for letter in text:
         guess += guessTEXT[guessCIPHER.find(letter.upper())]
     else:
         guess += letter
-print("GUESS 2: " + guess)
+print("GUESS 4: " + guess)
 print(" ------------------------- ")
